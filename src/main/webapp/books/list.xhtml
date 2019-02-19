@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<ui:composition template="../template.xhtml" xmlns="http://www.w3.org/1999/xhtml"
+                xmlns:h="http://java.sun.com/jsf/html"
+                xmlns:f="http://java.sun.com/jsf/core"
+                xmlns:b="http://bootsfaces.net/ui"
+                xmlns:ui="http://java.sun.com/jsf/facelets"
+                xmlns:c="http://xmlns.jcp.org/jsp/jstl/core">
+
+    <ui:define name="content">
+        <c:set var="root" value="#{request.contextPath}" />
+        <b:row>
+            <b:column span="12">
+                <h2>Books</h2>
+            </b:column>
+        </b:row>
+        <b:row>
+            <b:form id="book">
+                <b:label value="Add Book" span="2" severity="info" />
+                <b:inputText id="isbn" value="#{book.tmp.isbn}" size="5" span="1" placeholder="ISBN" required="true" />
+                <b:inputText id="genre" value="#{book.tmp.genre}" size="10" span="2" placeholder="Genre" required="true" />
+                <b:inputText id="price" value="#{book.tmp.price}" size="10" span="2" placeholder="Price" required="true"/>
+                <b:inputText id="title" value="#{book.tmp.title}" size="15" span="2" placeholder="Title"/>
+                <b:commandButton value="Add"  look="primary" span="2"
+                                 actionListener="#{book.add()}"/>
+                <b:commandButton value="Clear"  look="warning" span="1" size="xs"
+                                 action="#{book.cancel()}" immediate="true"/>
+            </b:form>
+        </b:row>
+        <b:row>
+            <b:messages/>
+        </b:row>
+        <!--
+            ajax:auth.test(5);   onpage="console.log(pageIndex);
+        onpage="console.log(me);"
+        -->
+        <b:row>
+            <b:form id="bookForm">
+                <b:dataTable
+                        id="bookTable"
+                        widgetVar="me"
+                        var="a" value="#{book.findAll()}" span="12"
+                        striped="true"
+                        page-length-menu="5,10,20"
+                        page-length="5"
+                        onpage="console.log(me); ajax:book.page()"
+                >
+                    <b:dataTableColumn value="#{a.isbn}" order="asc"  />
+                    <b:dataTableColumn value="#{a.genre}" />
+                    <b:dataTableColumn value="#{a.price}" />
+                    <b:dataTableColumn value="#{a.title}" />
+                    <b:dataTableColumn label="Edit" orderable="false" >
+                        <!--Can't use h:link will check navigation cases-->
+                        <!--Should not use use h:commandLink it's a post -->
+
+                        <!--Below is possible -->
+                        <!--<b:button href="#{root}/authors/edit/#{a.id}" value="Edit" /> -->
+
+                        <h:outputLink value="#{root}/books/edit/#{a.isbn}">Edit</h:outputLink>
+
+                    </b:dataTableColumn>
+                    <b:dataTableColumn label="Delete" orderable="false">
+                        <h:outputLink value="#{root}/books/delete/#{a.isbn}">Delete</h:outputLink>
+
+                        <!--<h:link value="Delete" outcome="delete.xhtml" >
+                            <f:param name="id" value="#{a.id}"/>
+                        </h:link>-->
+                    </b:dataTableColumn>
+                    <!--<f:ajax listener="${books.test()}"/>-->
+                </b:dataTable>
+            </b:form>
+        </b:row>
+    </ui:define>
+</ui:composition>

@@ -1,0 +1,11 @@
+/home/robin/work/teaching/DAT076/old/2018/labs/ws2/ws2/src/main/java/chl/hajo/library/control/AuthorBean.java
+/home/robin/work/teaching/DAT076/old/2018/labs/ws2/ws2/src/main/java/chl/hajo/library/dao/AuthorRegistry.java
+/home/robin/work/teaching/DAT076/old/2018/labs/ws2/ws2/src/main/java/chl/hajo/library/dao/Publications.java
+/home/robin/work/teaching/DAT076/old/2018/labs/ws2/ws2/src/main/java/chl/hajo/library/service/DataSupplier.java
+/home/robin/work/teaching/DAT076/old/2018/labs/ws2/ws2/src/main/java/chl/hajo/library/util/ExceptionHandler.java
+/home/robin/work/teaching/DAT076/old/2018/labs/ws2/ws2/src/main/java/chl/hajo/library/dao/BookCatalogue.java
+/home/robin/work/teaching/DAT076/old/2018/labs/ws2/ws2/src/main/java/chl/hajo/library/core/Genre.java
+/home/robin/work/teaching/DAT076/old/2018/labs/ws2/ws2/src/main/java/chl/hajo/library/core/Publication.java
+/home/robin/work/teaching/DAT076/old/2018/labs/ws2/ws2/src/main/java/chl/hajo/library/core/Book.java
+/home/robin/work/teaching/DAT076/old/2018/labs/ws2/ws2/src/main/java/chl/hajo/library/core/Author.java
+/home/robin/work/teaching/DAT076/old/2018/labs/ws2/ws2/src/main/java/chl/hajo/library/core/Address.java
