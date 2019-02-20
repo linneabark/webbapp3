@@ -11,6 +11,7 @@ import static java.lang.System.out;
 import java.util.List;
 import javax.annotation.PostConstruct;
 import javax.ejb.EJB;
+import javax.faces.bean.ViewScoped;
 import javax.inject.Named;
 import lombok.Getter;
 import lombok.Setter;
@@ -35,7 +36,8 @@ import net.bootsfaces.component.dataTable.DataTable;
  */
 @Named("book")
 //@RequestScoped
-@SessionScoped
+//@SessionScoped
+@javax.faces.view.ViewScoped
 public class BookBean implements Serializable {
 
     private static final Logger LOG = Logger.getLogger(AuthorBean.class.getName());
@@ -43,12 +45,13 @@ public class BookBean implements Serializable {
     private BookCatalogue areg;
     @Getter     // Lombok
     @Setter
-    private Book tmp = new Book();
+    private Book tmp;
 
 
     @PostConstruct // CDI life cycle callbacks
     void post() {
         out.println(this + "Alive");
+        tmp = new Book();
     }
 
     public void page() {
@@ -59,7 +62,7 @@ public class BookBean implements Serializable {
     // ------------ Navigation -------------------
 
     public void cancel() {
-        tmp = new Book();
+
     }
 
     // --------- Call backend -------------------------
@@ -94,17 +97,17 @@ public class BookBean implements Serializable {
             String message = sql.getMessage();
             FacesMessages.info("Fail " + message);
         }
-        tmp = new Book();
+
     }
 
     public void update() {
         areg.update(tmp);
-        tmp = new Book();
+
     }
 
     public void delete() {
         areg.delete(tmp.getIsbn());
-        tmp = new Book();
+
     }
 
 }
