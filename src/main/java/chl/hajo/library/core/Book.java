@@ -32,6 +32,9 @@ public class Book implements Serializable {
     @Setter
     @Getter
     private double price;
+    @Setter
+    @Getter
+    private Author author;
 
     public Book(String isbn, String genre, int price, String title) {
         this.isbn = isbn;

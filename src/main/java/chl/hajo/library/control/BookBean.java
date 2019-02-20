@@ -70,6 +70,10 @@ public class BookBean implements Serializable {
         return areg.findAll();
     }
 
+    public List<Book> findAllFromAuthor(Author author){
+        return areg.findAllFromAuthor(author);
+    }
+
     public void add() {
         //tmp.setAddress(DataSupplier.getRandomAddress());
         try {

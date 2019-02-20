@@ -7,7 +7,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7862fc0c-3fc2-4e15-8520-fee1e58fe243" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/author/list.xhtml" afterPath="$PROJECT_DIR$/src/main/webapp/author/list.xhtml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chl/hajo/library/control/BookBean.java" afterPath="$PROJECT_DIR$/src/main/java/chl/hajo/library/control/BookBean.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Author.java" afterPath="$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Author.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Book.java" afterPath="$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Book.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chl/hajo/library/dao/BookCatalogue.java" afterPath="$PROJECT_DIR$/src/main/java/chl/hajo/library/dao/BookCatalogue.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chl/hajo/library/service/DataSupplier.java" afterPath="$PROJECT_DIR$/src/main/java/chl/hajo/library/service/DataSupplier.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pretty-config.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pretty-config.xml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chl/hajo/library/control/BookBean.class" afterPath="$PROJECT_DIR$/target/classes/chl/hajo/library/control/BookBean.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chl/hajo/library/core/Author.class" afterPath="$PROJECT_DIR$/target/classes/chl/hajo/library/core/Author.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chl/hajo/library/core/Book.class" afterPath="$PROJECT_DIR$/target/classes/chl/hajo/library/core/Book.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chl/hajo/library/dao/BookCatalogue.class" afterPath="$PROJECT_DIR$/target/classes/chl/hajo/library/dao/BookCatalogue.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chl/hajo/library/service/DataSupplier.class" afterPath="$PROJECT_DIR$/target/classes/chl/hajo/library/service/DataSupplier.class" />
+      <change beforePath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT.war" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT.war" />
+      <change beforePath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/control/BookBean.class" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/control/BookBean.class" />
+      <change beforePath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/core/Author.class" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/core/Author.class" />
+      <change beforePath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/core/Book.class" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/core/Book.class" />
+      <change beforePath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/dao/BookCatalogue.class" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/dao/BookCatalogue.class" />
+      <change beforePath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/service/DataSupplier.class" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/service/DataSupplier.class" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,28 +39,28 @@
       <file leaf-file-name="pretty-config.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pretty-config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+            <state relative-caret-position="211">
+              <caret line="19" column="47" lean-forward="false" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="edit.xhtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/books/edit.xhtml">
+      <file leaf-file-name="bookslist.xhtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/author/bookslist.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="707">
-              <caret line="53" column="17" lean-forward="false" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+            <state relative-caret-position="-98">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.xhtml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="list.xhtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/author/list.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+            <state relative-caret-position="109">
+              <caret line="47" column="66" lean-forward="false" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -52,9 +69,12 @@
       <file leaf-file-name="Author.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Author.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="10" />
-              <folding />
+            <state relative-caret-position="187">
+              <caret line="46" column="5" lean-forward="false" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+              <folding>
+                <element signature="e#1073#1074#0" expanded="true" />
+                <element signature="e#1123#1124#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,7 +82,7 @@
       <file leaf-file-name="AuthorBean.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/control/AuthorBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
+            <state relative-caret-position="-303">
               <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
               <folding />
             </state>
@@ -72,7 +92,7 @@
       <file leaf-file-name="AuthorRegistry.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/dao/AuthorRegistry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="-128">
               <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
               <folding />
             </state>
@@ -82,19 +102,42 @@
       <file leaf-file-name="DataSupplier.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/service/DataSupplier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="47" column="28" lean-forward="false" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+            <state relative-caret-position="247">
+              <caret line="65" column="9" lean-forward="false" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Book.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+            <state relative-caret-position="159">
+              <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BookCatalogue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/dao/BookCatalogue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="686">
+              <caret line="62" column="43" lean-forward="false" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BookBean.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/control/BookBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="721">
+              <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+              <folding>
+                <element signature="e#2071#2072#0" expanded="true" />
+                <element signature="e#2124#2125#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -104,8 +147,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="XHTML File" />
         <option value="Class" />
+        <option value="XHTML File" />
       </list>
     </option>
   </component>
@@ -133,16 +176,18 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Address.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/books/list.xhtml" />
-        <option value="$PROJECT_DIR$/src/main/java/chl/hajo/library/dao/BookCatalogue.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/template.xhtml" />
         <option value="$PROJECT_DIR$/src/main/java/chl/hajo/library/control/AuthorBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chl/hajo/library/control/BookBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chl/hajo/library/service/DataSupplier.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Book.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/books/edit.xhtml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pretty-config.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/books/delete.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/author/bookslist.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/java/chl/hajo/library/dao/BookCatalogue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chl/hajo/library/control/BookBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Author.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chl/hajo/library/service/DataSupplier.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/author/list.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pretty-config.xml" />
       </list>
     </option>
   </component>
@@ -488,12 +533,12 @@
       <workItem from="1550139903319" duration="9936000" />
       <workItem from="1550498255837" duration="5257000" />
       <workItem from="1550588778028" duration="2891000" />
-      <workItem from="1550592229053" duration="2815000" />
+      <workItem from="1550592229053" duration="4236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20899000" />
+    <option name="totallyTimeSpent" value="22320000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="810" extended-state="0" />
@@ -580,19 +625,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/author/list.xhtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="59" lean-forward="false" selection-start-line="56" selection-start-column="52" selection-end-line="56" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Author.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="10" />
-          <folding />
+          <folding>
+            <element signature="e#1073#1074#0" expanded="true" />
+            <element signature="e#1123#1124#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -786,7 +826,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="47" column="54" lean-forward="false" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
-          <folding />
+          <folding>
+            <element signature="e#1073#1074#0" expanded="true" />
+            <element signature="e#1123#1124#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -868,16 +911,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/control/BookBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="85" column="12" lean-forward="false" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/author/edit.xhtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
@@ -898,62 +931,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/dao/BookCatalogue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/service/DataSupplier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="47" column="28" lean-forward="false" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/dao/AuthorRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Author.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/control/AuthorBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pretty-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -982,10 +959,88 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/dao/AuthorRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-128">
+          <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/dao/BookCatalogue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="62" column="43" lean-forward="false" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/service/DataSupplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="65" column="9" lean-forward="false" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pretty-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="19" column="47" lean-forward="false" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/author/bookslist.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-98">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/author/list.xhtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        <state relative-caret-position="109">
+          <caret line="47" column="66" lean-forward="false" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Author.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="46" column="5" lean-forward="false" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="e#1073#1074#0" expanded="true" />
+            <element signature="e#1123#1124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/control/AuthorBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-303">
+          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/control/BookBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding>
+            <element signature="e#2071#2072#0" expanded="true" />
+            <element signature="e#2124#2125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
           <folding />
         </state>
       </provider>

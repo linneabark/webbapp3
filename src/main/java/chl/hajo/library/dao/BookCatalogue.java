@@ -3,6 +3,8 @@ package chl.hajo.library.dao;
 import chl.hajo.library.core.Author;
 import chl.hajo.library.core.Book;
 import chl.hajo.library.service.DataSupplier;
+
+import java.util.ArrayList;
 import java.util.List;
 import javax.ejb.Stateless;
 
@@ -52,5 +54,15 @@ public class BookCatalogue {
         if( a != null){
             books.remove(a);
         }
+    }
+
+    public List <Book> findAllFromAuthor (Author author){
+        List <Book> bookList = new ArrayList<>();
+        for(int i = 0; i<books.size(); i++){
+            if(books.get(i).getAuthor().equals(author)){
+                bookList.add(books.get(i));
+            }
+        }
+        return bookList;
     }
 }
