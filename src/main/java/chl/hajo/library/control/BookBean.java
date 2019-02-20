@@ -2,6 +2,7 @@ package chl.hajo.library.control;
 
 import chl.hajo.library.core.Author;
 import chl.hajo.library.core.Book;
+import chl.hajo.library.core.Genre;
 import chl.hajo.library.dao.AuthorRegistry;
 import chl.hajo.library.dao.BookCatalogue;
 import chl.hajo.library.service.DataSupplier;
@@ -72,6 +73,16 @@ public class BookBean implements Serializable {
 
     public List<Book> findAllFromAuthor(Author author){
         return areg.findAllFromAuthor(author);
+    }
+
+    public Genre getGenre(int index) {
+        switch(index) {
+            case 0: return Genre.THRILLER;
+            case 1: return Genre.NOVEL;
+            case 2: return Genre.ROMANTIC_NOVEL;
+            case 3: return Genre.BIOGRAPHY;
+            default: throw new Error("Unknown genre");
+        }
     }
 
     public void add() {

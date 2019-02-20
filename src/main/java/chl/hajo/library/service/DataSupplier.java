@@ -52,16 +52,19 @@ public class DataSupplier {
     public static List<Book> getBooks(){
         List<Book> books = new ArrayList<>();
         String [] bs = {
-                "isbn1;Drama.BI;100;Bok 1",
-                "isbn2;Drama;200;Bok 2",
-                "isbn3;Drama;300;Bok 3",
-                "isbn4;Drama;400;Bok 4",
-                "isbn5;Drama;500;Bok 5",
+                "9789188681010;Isfiskaren;THRILLER;35",
+                "9789188545480;Falco;THRILLER;58",
+                "9789175038209;1793;BIOGRAPHY;39",
+                "9789100142698;Lazarus;NOVEL;79",
+                "9789188681027;Sillbaronen;NOVEL;35",
+                "9789150924688;Du kommer inte undan;ROMANTIC_NOVEL;29",
+                "9789177834328;Lär dig klockan med Greta Gris;ROMANTIC_NOVEL;55"
         };
         for (String s: bs){
             String [] d = s.split(";");
-            Book b = new Book(d[0],d[1], Integer.parseInt(d[2]), d[3]);
+            Book b = new Book(d[0],d[1], Double.parseDouble(d[3]));
             b.setAuthor(getRandomAuthor());
+            b.setGenre(Genre.valueOf(d[2]));
             books.add(b);
         }
         return books;
