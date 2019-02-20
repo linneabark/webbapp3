@@ -21,8 +21,8 @@
         <view-id value="/author/edit.xhtml?id=#{id}" />
     </url-mapping>
     <url-mapping id="view-books">
-        <pattern value="/books" />
-        <view-id value="/book/list.xhtml" />
+        <pattern value="/books/" />
+        <view-id value="/books/list.xhtml" />
     </url-mapping>
     <url-mapping id="delete-book">
         <pattern value="/books/delete/#{isbn}"/>

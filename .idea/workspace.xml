@@ -7,121 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7862fc0c-3fc2-4e15-8520-fee1e58fe243" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/ws2_jee_frontend_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/ws2_jee_frontend_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_web_api_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_36.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bootsfaces_bootsfaces_1_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_commonj_sdo_2_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_eclipselink_2_6_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_javax_persistence_2_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_javax_json_1_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ocpsoft_rewrite_rewrite_config_prettyfaces_3_4_1_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ocpsoft_rewrite_rewrite_integration_faces_3_4_1_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ocpsoft_rewrite_rewrite_servlet_3_4_1_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_18.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/faces-config.NavData" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nb-configuration.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nbproject/faces-config.NavData" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nbproject/project.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshoot1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshoot2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chl/hajo/library/control/AuthorBean.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chl/hajo/library/control/BookBean.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Address.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Author.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Book.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Genre.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chl/hajo/library/dao/AuthorRegistry.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chl/hajo/library/dao/BookCatalogue.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chl/hajo/library/service/DataSupplier.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/beans.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/faces-config.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/glassfish-resources.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pretty-config.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/author/delete.xhtml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/author/edit.xhtml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/author/list.xhtml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/books/delete.xhtml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/books/edit.xhtml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/books/list.xhtml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/index.xhtml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/default.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/banner.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/template.xhtml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/chl/hajo/library/dao/AuthorRegistryIT.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/chl/hajo/library/control/AuthorBean.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/chl/hajo/library/control/BookBean.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/chl/hajo/library/core/Address.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/chl/hajo/library/core/Author.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/chl/hajo/library/core/Book.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/chl/hajo/library/core/Genre.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/chl/hajo/library/dao/AuthorRegistry.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/chl/hajo/library/dao/BookCatalogue.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/chl/hajo/library/service/DataSupplier.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/endorsed/javaee-endorsed-api-7.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/chl/hajo/library/dao/AuthorRegistryIT.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT.war" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/beans.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/.netbeans_automatic_build" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/control/AuthorBean.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/control/BookBean.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/core/Address.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/core/Author.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/core/Book.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/core/Genre.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/core/Publication.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/dao/AuthorRegistry.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/dao/BookCatalogue.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/dao/Publications.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/service/DataSupplier.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/classes/chl/hajo/library/util/ExceptionHandler.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/faces-config.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/glassfish-resources.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/glassfish-web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/lib/bootsfaces-1.1.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.16.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/lib/lombok-1.16.18.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/lib/rewrite-config-prettyfaces-3.4.1.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/lib/rewrite-integration-faces-3.4.1.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/lib/rewrite-servlet-3.4.1.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.6.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.6.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/pretty-config.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/author/delete.xhtml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/author/edit.xhtml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/author/list.xhtml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/books/delete.xhtml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/books/edit.xhtml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/books/list.xhtml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/index.xhtml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/resources/css/default.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/resources/img/banner.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/template.xhtml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ws2_jee_frontend.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pretty-config.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pretty-config.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/books/delete.xhtml" afterPath="$PROJECT_DIR$/src/main/webapp/books/delete.xhtml" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/books/edit.xhtml" afterPath="$PROJECT_DIR$/src/main/webapp/books/edit.xhtml" />
+      <change beforePath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT.war" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT.war" />
+      <change beforePath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/pretty-config.xml" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/WEB-INF/pretty-config.xml" />
+      <change beforePath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/books/edit.xhtml" afterPath="$PROJECT_DIR$/target/ws2_jee_frontend-1.0-SNAPSHOT/books/edit.xhtml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -136,8 +28,18 @@
       <file leaf-file-name="pretty-config.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pretty-config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+            <state relative-caret-position="324">
+              <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="delete.xhtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/books/delete.xhtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="51" column="109" lean-forward="false" selection-start-line="51" selection-start-column="109" selection-end-line="51" selection-end-column="109" />
               <folding />
             </state>
           </provider>
@@ -146,8 +48,8 @@
       <file leaf-file-name="list.xhtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/books/list.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="72" selection-end-column="17" />
+            <state relative-caret-position="90">
+              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -156,8 +58,8 @@
       <file leaf-file-name="edit.xhtml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/books/edit.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="50" column="91" lean-forward="false" selection-start-line="50" selection-start-column="87" selection-end-line="50" selection-end-column="91" />
+            <state relative-caret-position="246">
+              <caret line="45" column="76" lean-forward="false" selection-start-line="45" selection-start-column="76" selection-end-line="45" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -166,7 +68,7 @@
       <file leaf-file-name="list.xhtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/author/list.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
+            <state relative-caret-position="97">
               <caret line="56" column="59" lean-forward="false" selection-start-line="56" selection-start-column="52" selection-end-line="56" selection-end-column="59" />
               <folding />
             </state>
@@ -176,7 +78,7 @@
       <file leaf-file-name="Author.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Author.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="73">
               <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="10" />
               <folding />
             </state>
@@ -186,7 +88,7 @@
       <file leaf-file-name="AuthorBean.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/control/AuthorBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="159">
               <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
               <folding />
             </state>
@@ -206,7 +108,7 @@
       <file leaf-file-name="DataSupplier.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/service/DataSupplier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
+            <state relative-caret-position="312">
               <caret line="47" column="28" lean-forward="false" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
               <folding />
             </state>
@@ -218,16 +120,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BookCatalogue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/dao/BookCatalogue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -272,11 +164,11 @@
         <option value="$PROJECT_DIR$/src/main/webapp/template.xhtml" />
         <option value="$PROJECT_DIR$/src/main/java/chl/hajo/library/control/AuthorBean.java" />
         <option value="$PROJECT_DIR$/src/main/java/chl/hajo/library/control/BookBean.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/books/edit.xhtml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/books/delete.xhtml" />
         <option value="$PROJECT_DIR$/src/main/java/chl/hajo/library/service/DataSupplier.java" />
         <option value="$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/books/edit.xhtml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pretty-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/books/delete.xhtml" />
       </list>
     </option>
   </component>
@@ -322,34 +214,29 @@
           <expand>
             <path>
               <item name="ws2_jee_frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ws2" type="462c0819:PsiDirectoryNode" />
+              <item name="fittlabb3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ws2_jee_frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ws2" type="462c0819:PsiDirectoryNode" />
-              <item name="nbproject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ws2_jee_frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ws2" type="462c0819:PsiDirectoryNode" />
+              <item name="fittlabb3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ws2_jee_frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ws2" type="462c0819:PsiDirectoryNode" />
+              <item name="fittlabb3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ws2_jee_frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ws2" type="462c0819:PsiDirectoryNode" />
+              <item name="fittlabb3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ws2_jee_frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ws2" type="462c0819:PsiDirectoryNode" />
+              <item name="fittlabb3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -357,7 +244,7 @@
             </path>
             <path>
               <item name="ws2_jee_frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ws2" type="462c0819:PsiDirectoryNode" />
+              <item name="fittlabb3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -366,7 +253,7 @@
             </path>
             <path>
               <item name="ws2_jee_frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ws2" type="462c0819:PsiDirectoryNode" />
+              <item name="fittlabb3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -375,7 +262,7 @@
             </path>
             <path>
               <item name="ws2_jee_frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ws2" type="462c0819:PsiDirectoryNode" />
+              <item name="fittlabb3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -384,7 +271,7 @@
             </path>
             <path>
               <item name="ws2_jee_frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ws2" type="462c0819:PsiDirectoryNode" />
+              <item name="fittlabb3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -393,14 +280,14 @@
             </path>
             <path>
               <item name="ws2_jee_frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ws2" type="462c0819:PsiDirectoryNode" />
+              <item name="fittlabb3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ws2_jee_frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ws2" type="462c0819:PsiDirectoryNode" />
+              <item name="fittlabb3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
@@ -408,7 +295,7 @@
             </path>
             <path>
               <item name="ws2_jee_frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ws2" type="462c0819:PsiDirectoryNode" />
+              <item name="fittlabb3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
@@ -416,7 +303,15 @@
             </path>
             <path>
               <item name="ws2_jee_frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ws2" type="462c0819:PsiDirectoryNode" />
+              <item name="fittlabb3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ws2_jee_frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fittlabb3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
@@ -619,15 +514,16 @@
       <workItem from="1550139903319" duration="9936000" />
       <workItem from="1550498255837" duration="5257000" />
       <workItem from="1550588778028" duration="2891000" />
-      <workItem from="1550592229053" duration="24000" />
+      <workItem from="1550592229053" duration="1816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18108000" />
+    <option name="totallyTimeSpent" value="19900000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="810" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -648,7 +544,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -767,6 +663,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="48" column="55" lean-forward="false" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="55" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -816,6 +713,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="89" lean-forward="false" selection-start-line="25" selection-start-column="89" selection-end-line="25" selection-end-column="89" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -863,6 +761,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="54" lean-forward="false" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -904,6 +803,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="31" column="38" lean-forward="false" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+          <folding>
+            <element signature="e#577#578#0" expanded="false" />
+            <element signature="e#632#633#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -936,6 +839,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -968,13 +872,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
           <caret line="48" column="55" lean-forward="false" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/books/delete.xhtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="32" column="42" lean-forward="false" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -982,6 +880,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-127">
           <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -989,53 +888,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/author/list.xhtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="59" lean-forward="false" selection-start-line="56" selection-start-column="52" selection-end-line="56" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Author.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/control/AuthorBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/service/DataSupplier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="47" column="28" lean-forward="false" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/dao/AuthorRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pretty-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -1056,18 +908,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/service/DataSupplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="47" column="28" lean-forward="false" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/dao/AuthorRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/core/Author.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chl/hajo/library/control/AuthorBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/author/list.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="56" column="59" lean-forward="false" selection-start-line="56" selection-start-column="52" selection-end-line="56" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pretty-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/books/delete.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="51" column="109" lean-forward="false" selection-start-line="51" selection-start-column="109" selection-end-line="51" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/books/list.xhtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="72" selection-end-column="17" />
+        <state relative-caret-position="90">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/books/edit.xhtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="50" column="91" lean-forward="false" selection-start-line="50" selection-start-column="87" selection-end-line="50" selection-end-column="91" />
+        <state relative-caret-position="246">
+          <caret line="45" column="76" lean-forward="false" selection-start-line="45" selection-start-column="76" selection-end-line="45" selection-end-column="76" />
           <folding />
         </state>
       </provider>
