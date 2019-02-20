@@ -8,6 +8,7 @@ import static java.lang.System.out;
 import java.util.List;
 import javax.annotation.PostConstruct;
 import javax.ejb.EJB;
+import javax.faces.view.ViewScoped;
 import javax.inject.Named;
 import lombok.Getter;
 import lombok.Setter;
@@ -32,7 +33,8 @@ import net.bootsfaces.component.dataTable.DataTable;
  */
 @Named("auth")
 //@RequestScoped
-@SessionScoped
+//@SessionScoped
+@ViewScoped
 public class AuthorBean implements Serializable {
 
     private static final Logger LOG = Logger.getLogger(AuthorBean.class.getName());
@@ -40,12 +42,13 @@ public class AuthorBean implements Serializable {
     private AuthorRegistry areg;
     @Getter     // Lombok
     @Setter
-    private Author tmp = new Author();
+    private Author tmp;
    
 
     @PostConstruct // CDI life cycle callbacks
     void post() {
         out.println(this + "Alive");
+        tmp = new Author();
     }
 
     public void page() {
@@ -56,7 +59,6 @@ public class AuthorBean implements Serializable {
     // ------------ Navigation -------------------
 
     public void cancel() {
-        tmp = new Author();
     }
 
     // --------- Call backend -------------------------
@@ -77,17 +79,14 @@ public class AuthorBean implements Serializable {
             String message = sql.getMessage();
             FacesMessages.info("Fail " + message);
         }
-        tmp = new Author();
     }
 
     public void update() {
         areg.update(tmp);
-        tmp = new Author();
     }
 
     public void delete() {
         areg.delete(tmp.getId());
-        tmp = new Author();
     }
 
 }
